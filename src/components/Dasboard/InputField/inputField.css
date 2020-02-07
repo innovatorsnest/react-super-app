@@ -1,0 +1,17 @@
+
+
+.text--field  {
+    border: 0px;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 15px
+}
+
+.text--field:focus {
+    outline: none;
+}
+
+
+::-webkit-input-placeholder {
+    font-weight: 500;
+}
